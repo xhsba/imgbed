@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:12.200000,
+https://flc.msmsmeme.com/30065f8248054e6b996f482eb9601bd3.png
+#EXTINF:8.333333,
+https://flc.msmsmeme.com/0f3b23a9346041b4aa931beddc1c8064.png
+#EXTINF:12.500000,
+https://flc.msmsmeme.com/9e0fafb14b3d4cfda7b1ee45dd1ce523.png
+#EXTINF:5.683333,
+https://flc.msmsmeme.com/7aab39ddb2f94b8480ac13699e990b19.png
+#EXT-X-ENDLIST
