@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:17
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:16.666667,
+https://img.shop.hisense.com/2024/07/29/8aa25cc8-7aed-495e-a4b3-4b341d7ab1fa.png
+#EXTINF:3.766667,
+https://img.shop.hisense.com/2024/07/29/5e0a0da3-76ed-494c-95cd-5bf47a4b5736.png
+#EXT-X-ENDLIST
