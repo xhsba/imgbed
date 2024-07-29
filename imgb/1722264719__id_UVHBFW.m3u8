@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:8
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.333333,
+https://flc.msmsmeme.com/bd0f460c13e3457eb76c4166e88a6ea3.png
+#EXTINF:4.166667,
+https://flc.msmsmeme.com/99156570d82949baa6ca9d47e70c42a4.png
+#EXTINF:4.166667,
+https://flc.msmsmeme.com/f8b589bc05314a279cdd17f2451d5cc6.png
+#EXTINF:4.166667,
+https://flc.msmsmeme.com/a8407cb80e764d8bb7d8273d0a003a14.png
+#EXTINF:4.166667,
+https://flc.msmsmeme.com/c93a39146cd14750a569044bbb35e21b.png
+#EXTINF:5.383333,
+https://flc.msmsmeme.com/016c2f1c69df45ba96a5840e191ed4e5.png
+#EXT-X-ENDLIST
